@@ -5,11 +5,7 @@
 - 言語
   - Python
   - Typescript
-- AWS
 - AI
-
-## 💬 Ask me about ...
-- [skiss.com](https://www.skiss.com)
 
 <!--
 **skiss-nakamae/skiss-nakamae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
